@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Dr. Smith is an excellent professor. His lectures are clear, and he always makes time for students."
+      },
+      {
+        "professor": "Prof. Lisa Turner",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Prof. Turner is knowledgeable and engaging, but her exams are quite challenging."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Dr. Brown's lectures can be a bit dry, but the lab sessions are well-organized."
+      },
+      {
+        "professor": "Prof. Emily Davis",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Prof. Davis is passionate about her subject and encourages students to think critically."
+      },
+      {
+        "professor": "Dr. Robert Wilson",
+        "subject": "Computer Science",
+        "stars": 2,
+        "review": "Dr. Wilson's lectures are difficult to follow, and he rarely responds to emails."
+      },
+      {
+        "professor": "Prof. Sarah Johnson",
+        "subject": "History",
+        "stars": 4,
+        "review": "Prof. Johnson is well-organized and provides useful study materials. Her classes are interesting."
+      },
+      {
+        "professor": "Dr. David Lee",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Dr. Lee knows his stuff but his teaching style is a bit monotonous."
+      },
+      {
+        "professor": "Prof. Karen Miller",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Prof. Miller is a fantastic professor who truly cares about her students. Highly recommended!"
+      },
+      {
+        "professor": "Dr. Richard White",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Dr. White challenges students to think deeply about philosophical issues. His classes are rewarding."
+      },
+      {
+        "professor": "Prof. Jessica Thomas",
+        "subject": "English Literature",
+        "stars": 3,
+        "review": "Prof. Thomas is knowledgeable, but her grading can be a bit harsh."
+      },
+      {
+        "professor": "Dr. Charles Martin",
+        "subject": "Political Science",
+        "stars": 5,
+        "review": "Dr. Martin's lectures are insightful and thought-provoking. He encourages open discussion."
+      },
+      {
+        "professor": "Prof. Amanda King",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Prof. King is approachable and explains concepts clearly, but the workload is heavy."
+      },
+      {
+        "professor": "Dr. William Walker",
+        "subject": "Engineering",
+        "stars": 2,
+        "review": "Dr. Walker's lectures are disorganized, and he often goes off-topic."
+      },
+      {
+        "professor": "Prof. Laura Scott",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Prof. Scott's passion for art is contagious. Her classes are both informative and enjoyable."
+      },
+      {
+        "professor": "Dr. Daniel Harris",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Dr. Harris is knowledgeable, but his lectures can be hard to follow at times."
+      },
+      {
+        "professor": "Prof. Megan Edwards",
+        "subject": "Geology",
+        "stars": 4,
+        "review": "Prof. Edwards makes geology exciting. Her field trips are the highlight of the course."
+      },
+      {
+        "professor": "Dr. Christopher Young",
+        "subject": "Astronomy",
+        "stars": 5,
+        "review": "Dr. Young is an expert in his field. His enthusiasm for astronomy makes learning fun."
+      },
+      {
+        "professor": "Prof. Patricia Martinez",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Prof. Martinez's lectures are well-structured and informative, but she can be strict on deadlines."
+      },
+      {
+        "professor": "Dr. Andrew Baker",
+        "subject": "Business Administration",
+        "stars": 3,
+        "review": "Dr. Baker is a good professor, but his assignments can be overwhelming."
+      },
+      {
+        "professor": "Prof. Jennifer Clark",
+        "subject": "Music",
+        "stars": 5,
+        "review": "Prof. Clark's passion for music is evident in her teaching. Her classes are a joy to attend."
+      }
+    ]
+  }
+  
