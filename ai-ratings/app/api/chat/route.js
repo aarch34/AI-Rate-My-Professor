@@ -57,7 +57,7 @@ export async function POST(req) {
         model:'llama3-8b-8192',
         stream:true,
     })
-    const stream =ReadableStream({
+    const stream = new ReadableStream({
         async start(controller){
             const encoder= new TextEncoder()
             try{
