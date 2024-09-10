@@ -1,7 +1,8 @@
 'use client'
 
 import Image from "next/image";
-import {useState} from "react";
+import {useState } from "react";
+import {Box, Button, TextField,Stack} from "@mui/material";
 
 export default function Home() {
   const [messages,setMessages] =useState([
@@ -23,7 +24,7 @@ export default function Home() {
     headers:{
       'Content-Type': 'application/json'
     },
-    body: Json.stringify([...messages,{ role:"user",content:message}]),
+    body: JSON.stringify([...messages,{ role:"user",content:message}]),
   }).then(async(res)=> {
       const reader =res.body.getReader()
       const decoder = new TextDecoder()
@@ -39,7 +40,7 @@ export default function Home() {
           let otherMessages = messages.slice(0, messages.length - 1)
           return[
             ...otherMessages,
-            {lastMessage, content: lastMessage.content+text},
+            {...lastMessages, content: lastMessages.content+text},
           ]
         })
 

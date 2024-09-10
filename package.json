@@ -1,7 +1,25 @@
 {
+  "name": "ai-ratings",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@google/generative-ai": "^0.17.2",
+    "@mui/material": "^6.0.2",
+    "@pinecone-database/pinecone": "^3.0.2",
     "next": "^14.2.9",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.7"
   }
 }
